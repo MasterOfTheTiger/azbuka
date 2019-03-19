@@ -80,6 +80,10 @@ button {
     
 }
 
+#azbuka div span {
+    font-weight: bold;
+}
+
 footer {
     padding-top: 10px;
     clear: both;
