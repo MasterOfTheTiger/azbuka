@@ -1,4 +1,5 @@
 // Main script for transliterator for Serbian. Copyright (C) 2019 MIT License
+// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat license
 
 const cyrillic = [
     'а','б','в','г','д','ђ','е','ж','з','и','ј','к','л','љ','м','н','њ','о','п','р','с','т','ћ','у','ф','х','ц','ч','џ','ш',
@@ -112,3 +113,5 @@ const toLatin = function (text) {
 
     return result
 }
+
+// @license-end
