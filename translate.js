@@ -1,3 +1,5 @@
+// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat license
+
 const translate = function () {
     console.log('gonna have to translate');
     
@@ -14,3 +16,5 @@ window.onload = function () {
         translate();
     }
 }
+
+// @license-end
